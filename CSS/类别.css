@@ -1,4 +1,6 @@
 .geng-label {
+  border-radius: 8px
+  border-width: 2px
   background-color: #9dffff
   color: #0061ff
 }
