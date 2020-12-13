@@ -2,3 +2,29 @@ a {
     color: #0061ff;
     text-decoration: none;
 }
+
+/*以下-由Earthworm收集*/
+table {
+    margin-left: 12%;
+    border-collapse: collapse;
+}
+table, td, th {
+    border: 1px solid #DFE2E5;
+}
+td {
+    padding: 6px;
+    text-align: center;
+}
+/*以上-由Earthworm收集*/
+
+.peng {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+}
+.peng p {
+    display: none;
+}
+.peng:hover p {
+    display: block;
+}
