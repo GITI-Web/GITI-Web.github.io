@@ -25,6 +25,6 @@ td {
 .peng p {
     display: none;
 }
-.peng:hover p {
+.peng:hover p,a,table,td,th {
     display: block;
 }
