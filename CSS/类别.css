@@ -4,3 +4,9 @@
   background-color: #0071ff
   color: #00e5ff
 }
+/*来源于:"https://earthworm-web.github.io/css/text.css"*/
+#center p {
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+}
