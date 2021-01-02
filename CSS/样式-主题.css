@@ -17,14 +17,14 @@ td {
 }
 /*以上-由Earthworm收集*/
 
-.peng {
+#q {
     width: 100px;
     height: 100px;
     background: #ccc;
 }
-.peng p {
+#q p,a,b,table,td,th {
     display: none;
 }
-.peng:hover p,a,table,td,th {
+#q:hover p,a,b,table,td,th {
     display: block;
 }
