@@ -21,5 +21,5 @@
 
 **事迹：**
 <video width="460" height="240" controls="controls" autoplay="autoplay">
-  <source src="/视频/mmexport1609511151185.mp4" type="video/mp4" />
+  <source src="视频/mmexport1609511151185.mp4" type="video/mp4" />
 </video>
