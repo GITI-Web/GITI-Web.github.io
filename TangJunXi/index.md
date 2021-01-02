@@ -14,16 +14,12 @@
 金马小学-六年级-3班
 
 **爱好：**
-玩王者荣耀
+玩王者荣耀，爱帅
 
 **朋友：**
 徐靖昂，孔瑞健，李今越
 
-**梦想：** 
-```python
-#待补充……
-```
-<hr>
-
-我们下次再见
-ヾ(￣▽￣)Bye~Bye~
+**事迹：**
+<video width="280" height="340" controls="controls" autoplay="autoplay">
+  <source src="视频/唐俊熙.mp4" type="video/mp4">
+</video>
