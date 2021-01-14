@@ -3,7 +3,7 @@ a {
     text-decoration: none;
 }
 
-/*以下-由Earthworm收集*/
+/*以下由Earthworm收集*/
 table {
     margin-left: 12%;
     border-collapse: collapse;
@@ -15,16 +15,19 @@ td {
     padding: 6px;
     text-align: center;
 }
-/*以上-由Earthworm收集*/
+/*以上由Earthworm收集*/
 
-#q {
-    width: 100px;
-    height: 100px;
-    background: #ccc;
+#f {
+    width: 190px;
+    background: #ffffe8;
+    align="center";
 }
-#q p,a,b,table,td,th {
-    display: none;
-}
-#q:hover p,a,b,table,td,th {
-    display: block;
+
+#f a {
+    background: #ffeaff;
+    color: #000000;
+    width: 110px;
+    height: 70px;
+    border-width: 2.3px;
+    border-color: black;
 }
