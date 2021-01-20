@@ -3,8 +3,7 @@ body {
 }
 
 a {
-    color: #0061ff;
-    text-decoration: none;
+    color: rgb(55,200,100);
 }
 
 /*以下由Earthworm收集*/
@@ -25,12 +24,9 @@ td {
     border: solid;
     width: fit-content;
     padding: 5px;
-    background: #ffffe8;
 }
 
 #f span a {
-    background: #ffeaff;
-    color: #000000;
     border: solid;
     border-width: 2px;
 }
