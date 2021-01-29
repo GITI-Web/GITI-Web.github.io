@@ -3,7 +3,7 @@
 ## 第一步：需要您有最新版的pip和Python
 ## 第二步：您需要有PYPI账号和API令牌
 
-## 拿“GitiPack”包举例：
+## 开始：
 创建以下路径：
 ```
 您的包名称
@@ -75,8 +75,6 @@ SOFTWARE.
 在“__init__.py”里写入：
 ```Python
 from .您的函数名称 import *
-
-name = 您的包名称
 ```
 
 在“您的函数名称.py”里写入：
