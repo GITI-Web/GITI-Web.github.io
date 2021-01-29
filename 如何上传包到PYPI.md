@@ -10,7 +10,8 @@
 ├── LICENSE
 ├── README.md
 ├── 包名称
-│   └── __init__.py
+│   ├── __init__.py
+│   └── 您的函数名称.py
 └── setup.py
 ```
 
@@ -23,7 +24,7 @@ with open("README.md", "r", encoding="UTF-8") as fh:
 
 setuptools.setup(
     name="您的包名",
-    version="1.3.2",
+    version="1.4.5",
     author="您的网名",
     author_email="您的邮箱",
     description="您的包的介绍",
@@ -32,11 +33,11 @@ setuptools.setup(
     url="您的存储包的网站(GitHub等)",
     packages=setuptools.find_packages(),
     classifiers=[
-        "Programming Language :: Python :: 3.5",
+        "Programming Language :: Python :: 3.6",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.5',
+    python_requires='>=3.6',
     extras_require={"您的包名称": ["python"]},
 )
 ```
@@ -72,8 +73,16 @@ SOFTWARE.
 ```
 
 在“__init__.py”里写入：
+```Python
+from .您的函数名称 import *
+
+name = 您的包名称
 ```
-您的包代码
+
+在“您的函数名称.py”里写入：
+```Python
+def 您的函数名称(函数值):
+    您的代码
 ```
 
 ### 恭喜您，您完成了一半！
@@ -86,7 +95,7 @@ python setup.py sdist bdist_wheel
 （这会输出大量文本，确保没有错误）
 
 #### [上传到PYPI]
-python -m twine upload --repository pypi dist/*
+twine upload dist/*
 
 （这里需要输入您的账号密码，密码在输入时显示不出来为正常现象）
 
