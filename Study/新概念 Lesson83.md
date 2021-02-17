@@ -1,10 +1,10 @@
 # Lesson 83  - Going on holiday
 
-CAROL: Hello, Sam.
+Carol: Hello, Sam.
 
 　Come in.
 
-TOM: Hi, Sam.
+Tom: Hi, Sam.
 
 　We're having lunch.
 
@@ -12,23 +12,23 @@ TOM: Hi, Sam.
 
 　us?
 
-SAM: No, thank you. Tom.
+Sam: No, thank you. Tom.
 
 　I've already had lunch.
 
 　I had at half past twelve.
 
-CAROL: Have a cup of coffee then.
+Carol: Have a cup of coffee then.
 
-SAM: I've just had a cup, thank you.
+Sam: I've just had a cup, thank you.
 
 　I had one after my lunch.
 
-TOM: Let's go into the living room,Carol.
+Tom: Let's go into the living room,Carol.
 
 　We can have our coffee there.
 
-CAROL: Excuse the mess, Sam.
+Carol: Excuse the mess, Sam.
 
 　This room's very untidy.
 
@@ -38,14 +38,14 @@ CAROL: Excuse the mess, Sam.
 
 　Tom and I are going to have a holiday.
 
-SAM: Aren't you lucky!
+Sam: Aren't you lucky!
 
-TOM: When are you going to have a holiday, Sam?
+Tom: When are you going to have a holiday, Sam?
 
-SAM: I don't know.
+Sam: I don't know.
 
 　I've already had my holiday this year.
 
-CAROL: Where did you go?
+Carol: Where did you go?
 
-SAM: I stayed at home!
+Sam: I stayed at home!
