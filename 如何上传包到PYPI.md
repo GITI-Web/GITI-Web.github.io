@@ -105,3 +105,7 @@ python -m pip install --user --upgrade setuptools wheel
 python -m pip install --user --upgrade twine
 
 （已安装twine库）
+
+
+## 另外：
+#### 此文章不含有侵权行为：[在PyPI上传包](https://www.bilibili.com/read/pcpreview?aid=111783)
