@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "giti-web.github.io",
+  "Id": "e1ec9c02-a6e4-4a8d-9548-d6625be1ef8c"
+}
